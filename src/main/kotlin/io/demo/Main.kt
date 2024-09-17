@@ -2,6 +2,7 @@ package io.demo
 
 import io.demo.dto.getMostRatedNews
 import io.demo.service.NewsService
+import io.demo.service.savePrettyNews
 import kotlinx.coroutines.runBlocking
 import mu.KotlinLogging
 import java.time.LocalDate
@@ -35,6 +36,8 @@ fun main() = runBlocking{
         println("Response text: $mostRatedNews")
 
         newsService.saveNews("src/main/resources/news.csv", mostRatedNews)
+
+        savePrettyNews(mostRatedNews, "src/main/resources/PrettyPrintedNews.txt")
 
     } catch (e: Exception) {
         logger.error(e) { "An error occurred while processing" }
