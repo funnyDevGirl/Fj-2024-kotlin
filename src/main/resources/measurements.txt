@@ -1,0 +1,7 @@
+Замеры:
+1 поток, 50 новостей - With the number of threads 1 execution time:  24940 ms
+4 потока, 50 новостей - With the number of threads 4 execution time:  17502 ms
+5 потоков, 50 новостей - With the number of threads 5 execution time:  17372 ms
+10 потоков, 50 новостей - With the number of threads 10 execution time:  7318 ms
+20 потоков, 50 новостей - With the number of threads 20 execution time:  5539 ms
+50 потоков, 50 новостей - With the number of threads 50 execution time:  3560 ms
