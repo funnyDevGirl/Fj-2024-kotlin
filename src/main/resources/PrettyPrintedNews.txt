@@ -1,26 +1,602 @@
  News reports
  ------------------------------
 
-** Правила игры: рецензия на фильм «Виды доброты» Йоргоса Лантимоса **
+** Путешествие без границ с VK Видео: блоги о необычных маршрутах и лайфхаках для путешествий **
 
  Place: Unknown
- Description: Сейчас на больших экранах и в сети можно увидеть фильм Йоргоса Лантимоса «Виды доброты», который принёс Джесси Племонсу награду за лучшую мужскую роль на Каннском фестивале. Чем хорош новый фильм популярного режиссёра и почему он совсем не похож на «Бедных-несчастных», читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
- Read more here: https://kudago.com/all/news/retsenziya-na-film-vidyi-dobrotyi/
+ Description: В приложении VK Видео есть что посмотреть, чем бы вы ни увлекались. Включайте любимых блогеров, шоу, клипы и сериалы, сохраняйте понравившееся, получайте персональные рекомендации. А специально для тех, кто не представляет жизнь без путешествий, мы составили подборку из трёх видеоблогов, авторы которых рассказывают о малоизвестных местах и делятся советами для самостоятельных туристов.
+ Read more here: https://kudago.com/all/news/puteshestvie-bez-granits-s-vk/
+ Favorites Count: 1
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.7310585786300049
+
+ ------------------------------
+
+** У приквела «Дюны» появился ещё один трейлер **
+
+ Place: Unknown
+ Description: В шоу будет шесть эпизодов.
+ Read more here: https://kudago.com/all/news/u-prikvela-dyunyi-poyavilsya/
  Favorites Count: 0
  Comments Count: 0
- Publication Date: 2024-09-17
+ Publication Date: 2024-10-18
  Rating: 0.5
 
  ------------------------------
 
-** Стало известно, когда выйдет сериал о Гарри Поттере **
+** В России обсуждают запрет езды на электросамокатах людям до 16 лет **
 
  Place: Unknown
- Description: Сейчас идёт работа над сценарием.
- Read more here: https://kudago.com/all/news/serial-o-garri-pottere-obeschayut-v/
+ Description: И возможность арендовать СИМ только при наличии водительского удостоверения.
+ Read more here: https://kudago.com/all/news/na-samokatah-razreshat-ezdit-s/
  Favorites Count: 0
  Comments Count: 0
- Publication Date: 2024-09-17
+ Publication Date: 2024-10-18
+ Rating: 0.5
+
+ ------------------------------
+
+** Режим работы станции «Горьковская» изменится из-за ремонта **
+
+ Place: Unknown
+ Description: Он продлится почти два месяца.
+ Read more here: https://kudago.com/spb/news/rezhim-gorkovskoj-izmenitsya-iz-za-remonta/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-18
+ Rating: 0.5
+
+ ------------------------------
+
+** Из Петербурга в Гатчину отправится «Пушкинская Ласточка» **
+
+ Place: Unknown
+ Description: Пассажиры смогут принять участие в викторине.
+ Read more here: https://kudago.com/spb/news/pushkinskaya-lastochka-iz-peterburga-v-gatchinu/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-18
+ Rating: 0.5
+
+ ------------------------------
+
+** Кинематографисты готовят ремейк «Невероятных приключений итальянцев в России» **
+
+ Place: Unknown
+ Description: Его снимут совместно с Китаем.
+ Read more here: https://kudago.com/all/news/kinematografistyi-gotovyat-remejk/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** Появился новый трейлер финального сезона «Аркейна» **
+
+ Place: Unknown
+ Description: Трансляцию разобьют на три части.
+ Read more here: https://kudago.com/all/news/trejler-finalnogo-sezona-arkejna/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** В тизере нового «Уоллеса и Громита» у главных героев неприятности **
+
+ Place: Unknown
+ Description: Премьера мультфильма состоится в январе.
+ Read more here: https://kudago.com/all/news/v-tizere-novogo-uollesa-i/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** Разработаны новые правила поступления в вузы для будущих учителей **
+
+ Place: Unknown
+ Description: Они начнут действовать через два года.
+ Read more here: https://kudago.com/all/news/razrabotanyi-novyie-pravila/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** Вышел дебютный трейлер байопика про Александра Пушкина **
+
+ Place: Unknown
+ Description: Премьера состоится в День всех влюблённых.
+ Read more here: https://kudago.com/all/news/trejler-bajopika-pro-aleksandra-pushkina/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** Открыт приём заявок на премию для фуд-блогеров **
+
+ Place: Unknown
+ Description: Призы вручат в 13 номинациях.
+ Read more here: https://kudago.com/all/news/fud-premii-2024/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** Первая в России музыкальная разметка появилась на трассе между Москвой и Петербургом **
+
+ Place: Unknown
+ Description: Для водителей будет звучать знакомая с детства мелодия.
+ Read more here: https://kudago.com/all/news/pervaya-v-rossii-muzyikalnaya/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** Умер бывший солист One Direction Лиам Пейн **
+
+ Place: Unknown
+ Description: Он выпал из окна.
+ Read more here: https://kudago.com/all/news/umer-byvshij-solist-one-direction/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** Русский музей открывает масштабную выставку к юбилею Карла Брюллова **
+
+ Place: Unknown
+ Description: На ней представят около 400 работ мастера.
+ Read more here: https://kudago.com/spb/news/russkij-muzej-otkryivaet/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-17
+ Rating: 0.5
+
+ ------------------------------
+
+** Собака забралась на самую высокую пирамиду Египта **
+
+ Place: Unknown
+ Description: Видео опубликовано в соцсетях.
+ Read more here: https://kudago.com/all/news/sobaka-zabralas-na-samuyu/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-16
+ Rating: 0.5
+
+ ------------------------------
+
+** У ЕГЭ не будет альтернативы **
+
+ Place: Unknown
+ Description: Но его противники продолжат борьбу.
+ Read more here: https://kudago.com/all/news/u-ege-ne-budet-alternativyi/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-16
+ Rating: 0.5
+
+ ------------------------------
+
+** Героев «Гарри Поттера» превратили в котов **
+
+ Place: Unknown
+ Description: А ещё в рок-звёзд.
+ Read more here: https://kudago.com/all/news/geroev-garri-pottera/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-16
+ Rating: 0.5
+
+ ------------------------------
+
+** Водительские права предложили выдавать с 16 лет **
+
+ Place: Unknown
+ Description: Обращение направлено в МВД.
+ Read more here: https://kudago.com/all/news/v-rossii-predlozhili-vyidavat/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-16
+ Rating: 0.5
+
+ ------------------------------
+
+** Go по работам: основательница благотворительного проекта «Путь домой» про осознанную помощь, ценность жизни и ответственность за тех, кого мы приручили **
+
+ Place: Unknown
+ Description: Сегодня героем нашей рубрики Go по работам стала Валерия Котлюба, руководитель благотворительного проекта «ПУТЬ ДОМОЙ» и директор АНО «Агентство по реализации социально-значимых проектов и программ „ВЕТЕР ПЕРЕМЕН“». Валерия следит за тем, чтобы работа проекта не прекращалась, а также организует одноимённый фестиваль, который за время своего существования помог найти дом более чем для 1000 животных. Мы поговорили с ней о том, почему домашние животные оказываются на улице, как этого можно избежать и почему любая помощь — это возможность сделать чью-то жизнь лучше.
+ Read more here: https://kudago.com/all/news/go-po-rabotam-osnovatelnitsa-blago-proekt/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-16
+ Rating: 0.5
+
+ ------------------------------
+
+** Кабаны держат в страхе посёлок в Ленобласти **
+
+ Place: Unknown
+ Description: Жители боятся отпускать детей на прогулку.
+ Read more here: https://kudago.com/spb/news/kabanyi-derzhat-v-strazhe-posyolok-v/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-16
+ Rating: 0.5
+
+ ------------------------------
+
+** «Ночлежка» открыла первый пункт обогрева для бездомных в Петербурге **
+
+ Place: Unknown
+ Description: Второй заработает на этой неделе.
+ Read more here: https://kudago.com/spb/news/nochlezhka-otkryila-pervyij-punkt/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-16
+ Rating: 0.5
+
+ ------------------------------
+
+** В России вырос спрос на тарологов и астрологов **
+
+ Place: Unknown
+ Description: Вакансии вызывают нешуточный интерес у соискателей.
+ Read more here: https://kudago.com/all/news/v-rossii-vyiros-spros-tarologov-i/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-16
+ Rating: 0.5
+
+ ------------------------------
+
+** В Петербурге восстанавливают музей Михаила Лермонтова **
+
+ Place: Unknown
+ Description: Он находился в здании лицея № 280.
+ Read more here: https://kudago.com/spb/news/v-peterburge-vosstanavlivayut/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** Райану Рейнольдсу и Хью Джекману предложили стать ведущими «Оскара» **
+
+ Place: Unknown
+ Description: Приглашение получили ещё несколько звёзд.
+ Read more here: https://kudago.com/all/news/rajanu-rejnoldsu-i-hyu-dzhekmanu/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** Над Россией летит самая яркая комета за 13 лет **
+
+ Place: Unknown
+ Description: Она видна невооружённым глазом.
+ Read more here: https://kudago.com/all/news/nad-rossiej-proletaet-samaya/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** Вход в Эрмитаж стал бесплатным для членов многодетных семей **
+
+ Place: Unknown
+ Description: Льготные билеты доступны на сайте.
+ Read more here: https://kudago.com/spb/news/vhod-v-ermitazh-stal-besplatnyim-dlya-mnogodetnyh-semej/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** В Выборгском замке появился бронзовый кот Филимон **
+
+ Place: Unknown
+ Description: Он одет в пальто.
+ Read more here: https://kudago.com/spb/news/v-vyiborgskom-zamke-poyavilsya/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** Спектакль окончен: рецензия на фильм «Джокер: Безумие на двоих» **
+
+ Place: Unknown
+ Description: В мировой прокат вышел сиквел «Джокера» с подзаголовком «Безумие на двоих». Продолжение мрачного хита о злодее представляет собой невнятный микс мюзикла и судебной драмы. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+ Read more here: https://kudago.com/all/news/retsenziya-na-film-dzhoker-bezumie-na-dvoih/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** Грибники из Петербурга и Ленобласти хвастаются полными корзинами **
+
+ Place: Unknown
+ Description: Заморозки тихой охоте не помеха.
+ Read more here: https://kudago.com/spb/news/gribniki-iz-peterburga-i/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** Роман с призраком: рецензия на фильм «Сидони в Японии» **
+
+ Place: Unknown
+ Description: Кинопрокат радует фестивальными новинками. На этот раз на больших экранах можно увидеть ленту с недавнего Венецианского кинофестиваля — фильм Элиз Жирар с Изабель Юппер, Цуёси Ихара и Аугустом Дилем в главных ролях. Медленная драма о скорби и спокойной любви — то, что нужно этой осенью. О прелестях и тонкостях этой чудесной работы читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+ Read more here: https://kudago.com/all/news/retsenziya-na-film-sidoni-v-yaponii/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** В Ленобласти спасают лисицу с переломами передних лап **
+
+ Place: Unknown
+ Description: Её ждёт операция.
+ Read more here: https://kudago.com/spb/news/v-lenoblasti-vyihazhivayut-lisa-s/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-15
+ Rating: 0.5
+
+ ------------------------------
+
+** В России могут запретить выступления животных в цирке **
+
+ Place: Unknown
+ Description: Закон рассмотрят в ноябре.
+ Read more here: https://kudago.com/all/news/v-rossii-mogut-zapretit-vystupleniya-zhivotnyh-v-cirke/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** Между Москвой и Петербургом начнёт ходить двухэтажная «Аврора» **
+
+ Place: Unknown
+ Description: Её запустят в конце года.
+ Read more here: https://kudago.com/all/news/mezhdu-moskvoj-i-sankt-14-10-2024/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** Идёт работа над новым сериалом про Штирлица **
+
+ Place: Unknown
+ Description: Съёмки могут стартовать следующим летом.
+ Read more here: https://kudago.com/all/news/idyot-rabota-nad-novyim-serialom/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** Котят нашли в коробке с чипсами **
+
+ Place: Unknown
+ Description: Их уже пристроили в хорошие руки.
+ Read more here: https://kudago.com/all/news/kotyat-nashli-v-korobke-s-chipsami/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** В Петербурге благоустроили берега Верхнего Суздальского озера **
+
+ Place: Unknown
+ Description: На территории появилась инфраструктура для маломобильных горожан.
+ Read more here: https://kudago.com/spb/news/v-peterburge-blagoustroili/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** В октябре можно будет наблюдать суперлуние **
+
+ Place: Unknown
+ Description: Оно станет главным и последним в этом году.
+ Read more here: https://kudago.com/all/news/v-oktyabre-mozhno-budet-nablyudat/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** Одноклассники запускают уникальное научпоп-шоу про садоводство **
+
+ Place: Unknown
+ Description: В нём расскажут, как получить высокий урожай при помощи современных технологий.
+ Read more here: https://kudago.com/all/news/odnoklassniki-zapuskayut/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** В Петербурге и Ленобласти перешли на регулярное отопление **
+
+ Place: Unknown
+ Description: В связи с понижением температуры.
+ Read more here: https://kudago.com/spb/news/v-peterburge-i-lenoblasti-regulyarnoe-otoplenie/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** В Петербурге ждут бабье лето **
+
+ Place: Unknown
+ Description: А в Ленобласти снег.
+ Read more here: https://kudago.com/spb/news/v-peterburge-zhdut-babe-leto/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-14
+ Rating: 0.5
+
+ ------------------------------
+
+** Измени своё лицо: рецензия на фильм «Другой человек» **
+
+ Place: Unknown
+ Description: Новинка с Берлинского кинофестиваля «Другой человек» ещё идёт в прокате и вполне успешно может шокировать неподготовленного зрителя. Возможно, что кого-то даже не меньше, чем «Субстанция». Аарон Шимберг продолжает препарировать вопросы красоты и уродства и снимает боди-хоррор на грани с драмой и чёрной сатирой. Каким получился этот морализаторский ужастик, читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+ Read more here: https://kudago.com/all/news/retsenziya-na-film-drugoj/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-13
+ Rating: 0.5
+
+ ------------------------------
+
+** В Петербурге началась закупка новогодних украшений для улиц **
+
+ Place: Unknown
+ Description: Ель на Дворцовой будет живой.
+ Read more here: https://kudago.com/spb/news/v-peterburge-nachalas-zakupka/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-11
+ Rating: 0.5
+
+ ------------------------------
+
+** В Ленобласти заметили необычных уток и беркута **
+
+ Place: Unknown
+ Description: Им грозит вымирание.
+ Read more here: https://kudago.com/spb/news/v-lenoblasti-zametili-neobyichnyih/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-11
+ Rating: 0.5
+
+ ------------------------------
+
+** В заповеднике Ленобласти впервые за несколько лет заметили волчат **
+
+ Place: Unknown
+ Description: Они попали в видеоловушку.
+ Read more here: https://kudago.com/spb/news/v-zapovednike-v-lenoblasti/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-11
+ Rating: 0.5
+
+ ------------------------------
+
+** У «Теории большого взрыва» появится спин-офф **
+
+ Place: Unknown
+ Description: В нём расскажут о второстепенных персонажах шоу.
+ Read more here: https://kudago.com/all/news/u-teorii-bolshogo-vzryiva/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-11
+ Rating: 0.5
+
+ ------------------------------
+
+** В Риме за посещение фонтана Треви будут брать плату **
+
+ Place: Unknown
+ Description: Власти ограничат поток туристов к центральной достопримечательности.
+ Read more here: https://kudago.com/all/news/v-rime-za-poseschenie-fontana/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-11
+ Rating: 0.5
+
+ ------------------------------
+
+** Tesla выпустит беспилотные такси **
+
+ Place: Unknown
+ Description: Илон Маск хочет запустить производство уже через два года.
+ Read more here: https://kudago.com/all/news/tesla-vyipustit-bespilotnyie-taksi/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-11
+ Rating: 0.5
+
+ ------------------------------
+
+** «Поющие мосты» вновь посвятят творчеству Андрея Петрова **
+
+ Place: Unknown
+ Description: Композитор создал музыку ко многим популярным фильмам.
+ Read more here: https://kudago.com/spb/news/poyuschie-mostyi-vnov-posvyatyat/
+ Favorites Count: 0
+ Comments Count: 1
+ Publication Date: 2024-10-11
+ Rating: 0.5
+
+ ------------------------------
+
+** Вышел ещё один трейлер «Конклава» с Рэйфом Файнсом **
+
+ Place: Unknown
+ Description: Премьера в России в конце ноября.
+ Read more here: https://kudago.com/all/news/vyishel-eschyo-odin-trejler/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-11
+ Rating: 0.5
+
+ ------------------------------
+
+** В Ленобласти назвали самые популярные и необычные имена детей **
+
+ Place: Unknown
+ Description: В топе без изменений.
+ Read more here: https://kudago.com/spb/news/v-lenoblasti-nazvali-samyie/
+ Favorites Count: 0
+ Comments Count: 0
+ Publication Date: 2024-10-11
  Rating: 0.5
 
  ------------------------------
